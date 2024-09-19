@@ -35,58 +35,59 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg68" />
   <text
-     x="34.329102"
+     x="38.304699"
      y="4.5791016"
      font-family="Arial"
      font-size="5px"
      id="text2">Amoebozoa</text>
   <text
-     x="34.329102"
+     x="38.304699"
      y="11.662401"
      font-family="Arial"
      font-size="5px"
      id="text4">Breviatea</text>
   <text
-     x="34.329102"
+     x="38.304699"
      y="18.745802"
      font-family="Arial"
      font-size="5px"
      id="text6">Apusomonadida</text>
   <text
-     x="34.329102"
+     x="38.304699"
      y="25.829102"
      font-family="Arial"
      font-size="5px"
      id="text8">Fonticulida</text>
   <text
-     x="34.329102"
+     x="38.304699"
      y="32.912403"
      font-family="Arial"
      font-size="5px"
      id="text10">Nucleariida</text>
   <polyline
-     points="32.8291,28.3333 28.8535,28.3333 28.8535,31.875"
+     points="36.8047,28.3333 28.8535,28.3333 28.8535,31.875"
      style="fill:none;stroke:#000000;stroke-width:1"
      id="polyline12"
      transform="translate(-3.5,-4.1708984)" />
   <polyline
-     points="32.8291,35.4167 28.8535,35.4167 28.8535,31.875"
+     points="36.8047,35.4167 28.8535,35.4167 28.8535,31.875"
      style="fill:none;stroke:#000000;stroke-width:1"
      id="polyline14"
      transform="translate(-3.5,-4.1708984)" />
   <text
-     x="34.329102"
+     x="38.304699"
      y="39.9958"
      font-family="Arial"
      font-size="5px"
-     id="text16">Fungi</text>
+     id="text16"
+     style="fill:#ff0000">Fungi</text>
   <polyline
      points="28.8535,31.875 24.8779,31.875 24.8779,37.1875"
      style="fill:none;stroke:#000000;stroke-width:1"
      id="polyline18"
      transform="translate(-3.5,-4.1708984)" />
   <polyline
-     points="32.8291,42.5 24.8779,42.5 24.8779,37.1875"
+     points="36.8047,42.5 24.8779,42.5 24.8779,37.1875"
      style="fill:none;stroke:#000000;stroke-width:1"
      id="polyline20"
      transform="translate(-3.5,-4.1708984)" />
@@ -171,7 +172,7 @@
      id="polyline50"
      transform="translate(-3.5,-4.1708984)" />
   <polyline
-     points="32.8291,21.25 12.9512,21.25 12.9512,33.9779"
+     points="36.8047,21.25 12.9512,21.25 12.9512,33.9779"
      style="fill:none;stroke:#000000;stroke-width:1"
      id="polyline52"
      transform="translate(-3.5,-4.1708984)" />
@@ -181,7 +182,7 @@
      id="polyline54"
      transform="translate(-3.5,-4.1708984)" />
   <polyline
-     points="32.8291,14.1667 8.97559,14.1667 8.97559,24.0723"
+     points="36.8047,14.1667 8.97559,14.1667 8.97559,24.0723"
      style="fill:none;stroke:#000000;stroke-width:1"
      id="polyline56"
      transform="translate(-3.5,-4.1708984)" />
@@ -191,7 +192,7 @@
      id="polyline58"
      transform="translate(-3.5,-4.1708984)" />
   <polyline
-     points="32.8291,7.08333 5,7.08333 5,15.5778"
+     points="36.8047,7.08333 5,7.08333 5,15.5778"
      style="fill:none;stroke:#000000;stroke-width:1"
      id="polyline60"
      transform="translate(-3.5,-4.1708984)" />
